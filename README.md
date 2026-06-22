@@ -60,10 +60,5 @@ The project demonstrates that Machine Learning models can improve ocean wave ene
 * Cloud deployment for live forecasting
 * Improved forecasting accuracy using larger datasets
 
-## Author
-
-**Pavani Bhargavi Addala**
-Master of Computer Applications (MCA)
-Swarnandhra College of Engineering and Technology
 
 GitHub: https://github.com/bhargaviaddala12345-dev
